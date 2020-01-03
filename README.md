@@ -1,2 +1,2 @@
-# accountmgr
-  java / eclipse
+# Account_manager
+  java_eclipse
