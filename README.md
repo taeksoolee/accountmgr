@@ -1,2 +1,2 @@
 # Account_manager
-  java_eclipse
+  java swing을 이용한 가계부 프로그램
